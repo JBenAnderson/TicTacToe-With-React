@@ -22,7 +22,7 @@ coming soon
 
 Notes
 ----------------------------------------
-This is a TODO list constructed with HTML, REACT, and JAVASCRIPT and uses CSS for styling.
+coming soon
 
 License
 ----------------------------------------
