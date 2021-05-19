@@ -35,3 +35,12 @@ button {
   font-weight: bold;
   font-size: 20em;
 }
+.noClick {
+  cursor: default;
+  pointer-events: none;
+}
+
+.status {
+  text-shadow: 2px 2px #000000;
+  text-align: center;
+}
